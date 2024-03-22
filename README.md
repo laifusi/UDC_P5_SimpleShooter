@@ -1,2 +1,5 @@
-# UDC_P5_SimpleShooter
-Fifth project of the Unreal 5.0 C++ Developer Course
+# UnrealDeveloperCourse
+Results of the Unreal 5.0 C++ Developer Course
+
+## Fifth Project: Simple Shooter
+Third-person shooter game that teaches advanced AI and animation tools.
